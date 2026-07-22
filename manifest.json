@@ -1,0 +1,12 @@
+{
+  "name": "Spoiler",
+  "version": "1.0",
+  "description": "js a lil bit of spoiled text",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 3,
+  "icons": {
+    "64": "Mayo.png"
+  }
+}
